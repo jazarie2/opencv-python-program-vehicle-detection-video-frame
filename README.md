@@ -12,6 +12,5 @@ pip install numpy
 sudo apt install python-opencv
 
 git clone https://github.com/jazarie2/opencv-python-program-vehicle-detection-video-frame.git
-
 cd ./opencv-python-program-vehicle-detection-video-frame
 python main.py
